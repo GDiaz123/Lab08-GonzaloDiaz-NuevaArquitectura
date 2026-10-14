@@ -1,0 +1,6 @@
+﻿namespace Lab08_GonzaloDiaz.Repository;
+
+public interface IProductRepository
+{
+    
+}
